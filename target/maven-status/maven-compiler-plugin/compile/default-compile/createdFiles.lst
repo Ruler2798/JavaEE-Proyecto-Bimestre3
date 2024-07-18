@@ -1,0 +1,5 @@
+org\luishernandez\webapp\service\IProductoService.class
+org\luishernandez\webapp\servlet\ProductoServlet.class
+org\luishernandez\webapp\model\Producto.class
+org\luishernandez\webapp\service\ProductoService.class
+org\luishernandez\webapp\util\JpaUtil.class
